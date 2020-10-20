@@ -13,5 +13,8 @@ What it can do:
 6. Calculate frequencies and pairs
 and much more...
 
+By:
+Abhijeet Das
+
 Support this development.
 Thanks !
